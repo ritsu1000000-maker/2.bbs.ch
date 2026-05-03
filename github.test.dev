@@ -176,6 +176,6 @@ window.$RefreshSig$ = () => (type) => type;</script>
   </head>
   <body>
     <div id="root"></div>
-    <script type="module" src="/src/main.tsx?t=1777785491807"></script>
+    <script type="module" src="/src/main.tsx?t=1777787443147"></script>
   <script src="https://replit-cdn.com/replit-pill/replit-pill.global.js" data-repl-id="46ac27ea-1162-41fd-a52f-b271eb49b116"></script></body>
 </html>
